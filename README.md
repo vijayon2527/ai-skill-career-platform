@@ -1,0 +1,3 @@
+# AI Skill Career Platform
+
+This project is built using Django REST Framework + React...
